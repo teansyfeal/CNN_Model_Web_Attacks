@@ -1,3 +1,5 @@
+__[Based on A novel architecture for web-based attack detection using convolutional neural network](https://www.sciencedirect.com/science/article/pii/S0167404820303692?via%3Dihub)__
+
 A Novel Architecture for Web-Based Attack Detection Using
 Convolution Neural Network
 Adem TEKEREK
